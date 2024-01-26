@@ -7,6 +7,6 @@ This script will delete any song folders that don't have the corresponding song 
 
 Place the script in the root of your Beat Saber folder, and run it with python.
 
-Some playlist entries do not include a song key. (Older format?) These will not get detected. Any such unintentionally deleted songs can be easily re-downloaded in-game though.
+Some playlist entries do not include a song key. (Older format?) These will not get detected. Any such unintentionally deleted songs can be easily re-downloaded in-game though. Your playlists will not be altered.
 
 Make sure you have a backup of Beat_Saber_Data/CustomLevels before proceeding!
